@@ -1,0 +1,6 @@
+D:\Soucre Code\VSondLibrary\StrLib\bin\Debug\StrLib.dll
+D:\Soucre Code\VSondLibrary\StrLib\bin\Debug\StrLib.pdb
+D:\Soucre Code\VSondLibrary\StrLib\obj\Debug\StrLib.csprojAssemblyReference.cache
+D:\Soucre Code\VSondLibrary\StrLib\obj\Debug\StrLib.csproj.CoreCompileInputs.cache
+D:\Soucre Code\VSondLibrary\StrLib\obj\Debug\StrLib.dll
+D:\Soucre Code\VSondLibrary\StrLib\obj\Debug\StrLib.pdb

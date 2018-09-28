@@ -1,0 +1,10 @@
+D:\Soucre Code\IDEA\Rule20\Rule20\bin\Debug\Rule20.exe.config
+D:\Soucre Code\IDEA\Rule20\Rule20\bin\Debug\Rule20.exe
+D:\Soucre Code\IDEA\Rule20\Rule20\bin\Debug\Rule20.pdb
+D:\Soucre Code\IDEA\Rule20\Rule20\obj\Debug\Rule20.csprojAssemblyReference.cache
+D:\Soucre Code\IDEA\Rule20\Rule20\obj\Debug\Rule20.frmMain.resources
+D:\Soucre Code\IDEA\Rule20\Rule20\obj\Debug\Rule20.Properties.Resources.resources
+D:\Soucre Code\IDEA\Rule20\Rule20\obj\Debug\Rule20.csproj.GenerateResource.cache
+D:\Soucre Code\IDEA\Rule20\Rule20\obj\Debug\Rule20.csproj.CoreCompileInputs.cache
+D:\Soucre Code\IDEA\Rule20\Rule20\obj\Debug\Rule20.exe
+D:\Soucre Code\IDEA\Rule20\Rule20\obj\Debug\Rule20.pdb

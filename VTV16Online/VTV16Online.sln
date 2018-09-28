@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTV16Online", "VTV16Online\VTV16Online.csproj", "{EF9F68D3-401E-45B9-8A72-C627329E065E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupVTV16Online", "SetupVTV16Online\SetupVTV16Online.vdproj", "{8027121B-A869-4CCD-BA41-E8876E4C5958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9F68D3-401E-45B9-8A72-C627329E065E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9F68D3-401E-45B9-8A72-C627329E065E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9F68D3-401E-45B9-8A72-C627329E065E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9F68D3-401E-45B9-8A72-C627329E065E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8027121B-A869-4CCD-BA41-E8876E4C5958}.Debug|Any CPU.ActiveCfg = Debug
+		{8027121B-A869-4CCD-BA41-E8876E4C5958}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D51793D-1AB8-4859-B655-EDAD5AE4A491}
+	EndGlobalSection
+EndGlobal
